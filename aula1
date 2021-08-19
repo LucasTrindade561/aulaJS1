@@ -1,0 +1,5 @@
+console.log('Opa "paizao" como tu ta??'); //Para exibir o resultado usamos esse metodo
+console.log("cai cai cai 'na'  do pai");
+console.log(`Opa`); //`` é usado para templantes strings
+
+console.log(12345, 1.234, 'Lucas Trindade o Gatao'); //Number = Numero
